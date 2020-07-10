@@ -2,4 +2,4 @@
 
 Storage for studying Python
 
-### Python for beginners
+### Python for beginners(https://wikidocs.net/book/922)
