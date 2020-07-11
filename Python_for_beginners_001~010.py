@@ -1,29 +1,31 @@
-# 1
+# Python Start
+
+# 001
 print('Hello World')
 
-# 2
+# 002
 print("Effort's blog")
 
-# 3
+# 003
 print('He said. "Help me!".')
 
-# 4
+# 004
 print('''"C:\Windows"''')
 
-# 5
+# 005
 print("Hello.\nNice to\tmeet you.")    # tab, newline
 
-# 6
+# 006
 print("Today is", "Friday")
 
-# 7
+# 007
 print("naver", "kakao", "samsung", sep = ";")
 
-# 8
+# 008
 print("naver", "kakao", "samsung", sep = "/")
 
-# 9
+# 009
 print("first", end = "");print("second")
 
-# 10
+# 010
 print(5 / 3)
